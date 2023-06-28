@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Mario A. García Meza
 a.k.a. @marionomics
 - 👀 I’m interested in Economics, econometrics, data science and science.
-- 🌱 I’m currently learning some backend development and data structures.
+- 🌱 I’m always learning something new on econometrics and I'm currently learning financial law.
 - 💞️ I’m looking to collaborate on scientific and data-related projects.
 - 📫 Send me an email at hola@marionomics.com
 
